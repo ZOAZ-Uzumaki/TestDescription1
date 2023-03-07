@@ -149,8 +149,12 @@ int main(void)
 			pincode3 = pincode3 - 636; pincode4 = pincode4 - 136;
 
 			cout << "Ваш пароль - " << pincode1 << pincode2 << pincode3 << pincode4 << endl;
-		*/ //розшифровка
-			
+		*/
 		
+		//розшифровка работа, ну так собі, банально.
+			
+			
+
+
 	cin.get(); //not close in cmd.
 }
